@@ -1,0 +1,2070 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>108.48233557977338</longitude>
+            <latitude>34.009102967964395</latitude>
+            <altitude>439080.611759601</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>354800.1648132467</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <Folder>
+            <name>FAST:DIM_MRO_ROAD_G10_DAY_GEO_3</name>
+            <LookAt>
+                <longitude>108.70221453426981</longitude>
+                <latitude>34.34093585932164</latitude>
+                <altitude>26117.67791276595</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>21104.453669346123</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b4">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b4</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b5">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b5</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b6">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b6</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b7">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b7</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b8">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b8</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b9">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26b9</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26ba">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26ba</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26bb">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26bb</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26bc">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26bc</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26bd">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26bd</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26be">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26be</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26bf">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26bf</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c0">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c0</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c1">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c1</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c2">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c2</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c3">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c3</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c4">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c4</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c5">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c5</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c6">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c6</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c7">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c7</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c8">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c8</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c9">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26c9</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26ca">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26ca</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26cb">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26cb</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26cc">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26cc</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26cd">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26cd</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26ce">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26ce</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+            <Placemark id="DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26cf">
+                <name>DIM_MRO_ROAD_G10_DAY_GEO_3.fid-6f1319da_166eda8bab1_26cf</name>
+                <description>&lt;h4&gt;DIM_MRO_ROAD_G10_DAY_GEO_3&lt;/h4&gt;
+
+&lt;ul class="textattributes"&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SDATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20181003&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;CITY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;XIANYANG&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;ROAD_ID&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1488&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDX&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1207720&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;GRIDY&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;381203&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;SUM_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;492&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_SAMPLES&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRP&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-81.52&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_COVERAGE_110_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_RSRQ&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;-7.86&lt;/span&gt;&lt;/li&gt;
+  
+  
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;AVG_TA&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2.21&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;OVER_LAPPING_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;POOR_QUALITY_RATE&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0.12&lt;/span&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+                <LookAt>
+                    <longitude>108.69484499997589</longitude>
+                    <latitude>34.30831500000823</latitude>
+                    <altitude>16.06349616249906</altitude>
+                    <heading>0.0</heading>
+                    <tilt>0.0</tilt>
+                    <range>12.98014745650404</range>
+                    <altitudeMode>clampToGround</altitudeMode>
+                </LookAt>
+                <Style>
+                    <IconStyle>
+                        <color>00ffffff</color>
+                        <scale>0.4</scale>
+                        <heading>0.0</heading>
+                        <Icon>
+                            <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
+                            <refreshInterval>0.0</refreshInterval>
+                            <viewRefreshTime>0.0</viewRefreshTime>
+                            <viewBoundScale>1.0</viewBoundScale>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>00ffffff</color>
+                        <scale>0.0</scale>
+                    </LabelStyle>
+                    <LineStyle>
+                        <color>00000000</color>
+                        <width>1.0</width>
+                    </LineStyle>
+                    <PolyStyle>
+                        <color>7fff0000</color>
+                        <outline>1</outline>
+                    </PolyStyle>
+                </Style>
+                <MultiGeometry>
+                    <Point>
+                        <coordinates>108.69484500000002,34.308315</coordinates>
+                    </Point>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>108.6948,34.30827 108.6948,34.30836 108.69489,34.30836 108.69489,34.30827 108.6948,34.30827</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
