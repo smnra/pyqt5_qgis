@@ -17,6 +17,10 @@
 
 import re
 from pykml import parser
+from createShapeFile import *
+from createNewDir import *
+
+
 
 class KmlAnalysis():
     def __init__(self,fileName):
@@ -40,6 +44,10 @@ class KmlAnalysis():
 
         # 已读取feature 的个数
         self.featureCount = 0
+
+        # 创建工作目录
+        self.inputPath = createDir(r'./input')
+        self.outputPath = createDir(r'./output')
 
     def getKmlPrefix(self):
         """
@@ -84,7 +92,8 @@ class KmlAnalysis():
             point = placemark.MultiGeometry.Point.coordinates.text
             polygon = placemark.MultiGeometry.Polygon.outerBoundaryIs.LinearRing.coordinates.text
 
-            rows.append(list([valueList, point, polygon]))
+            # rows.append(list([valueList, point, polygon]))
+            rows.append({'valueList':valueList, 'point':point, 'polygon':polygon})
             self.featureCount += 1
             # print([valueList, point, polygon])
             # print(self.featureCount)
@@ -182,7 +191,37 @@ class KmlAnalysis():
         return list(keyList)
 
 
+    def addFeatureToFile(self,fieldList,featureDatas):
+        for i,row in enumerate(featureDatas):
+            # 将多边形的经纬度整理为如下格式:
+            # [[108.6948, 34.30827], [108.6948, 34.30836], [108.69489, 34.30836], [108.69489, 34.30827], [108.6948, 34.30827]]
+            coordStrList = row.get('polygon','').split(" ")
+            coordList = [[float(coor) for coor in coordi.split(',')] for coordi in coordStrList]
+
+            if i % 1000000 == 0:
+                # 初始化类
+                newMap = CreateMapFeature(self.outputPath)
+
+                # 创建shape文件
+                dataSource = newMap.newFile('pylgon' + str(i) + '.shp')
+
+                # 创建 图层Layer 对象
+                newLayer = newMap.createLayer(dataSource, fieldList)
+
+                print(i)
+
+            newMap.createPolygon(newLayer, [coordList], row.get('polygon',''))
+            # 创建 shape对象
+
+
+
+
+
+
     def kmlBigFileRead(self):
+        # 初始化生成shape文件的类
+        newMap = CreateMapFeature(self.outputPath)
+
         # 获取kml文件的 声明前缀
         self.kmlPrefix = self.getKmlPrefix()
 
@@ -197,8 +236,13 @@ class KmlAnalysis():
             xmlTagStr = self.tagComplement(xmlTag['content']).encode(encoding='utf-8')
             kmlTag = parser.fromstring(xmlTagStr)
             placemarkTags = kmlTag.findall('.//{http://www.opengis.net/kml/2.2}Placemark')
-            aaa = self.getTab(placemarkTags)
-            print(aaa)
+            featureDatas = self.getTab(placemarkTags)
+
+            # 生成 shape文件 字段名及类型  # 如: (("index", (4, 254)), ("name", (4, 254)), ("lon", 2), ("lat", 2))
+            fieldList = [(title[:8], (4, 254)) for title in self.kmlTableTitle]
+
+            # 添加到shape文件
+            self.addFeatureToFile(fieldList,featureDatas)
 
 
 if __name__=='__main__':
