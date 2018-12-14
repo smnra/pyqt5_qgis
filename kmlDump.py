@@ -46,8 +46,15 @@ class KmlAnalysis():
         self.featureCount = 0
 
         # 创建工作目录
-        self.inputPath = createDir(r'./input')
-        self.outputPath = createDir(r'./output')
+        self.inputPath = createDir(r'./input/')
+        self.outputPath = createDir(r'./output/')
+
+        # 初始化类
+        self.newMap = CreateMapFeature(self.outputPath)
+
+        # 写入的 feature 的 数量
+        self.count= 0
+
 
     def getKmlPrefix(self):
         """
@@ -192,35 +199,33 @@ class KmlAnalysis():
 
 
     def addFeatureToFile(self,fieldList,featureDatas):
-        for i,row in enumerate(featureDatas):
+        for row in featureDatas:
             # 将多边形的经纬度整理为如下格式:
             # [[108.6948, 34.30827], [108.6948, 34.30836], [108.69489, 34.30836], [108.69489, 34.30827], [108.6948, 34.30827]]
             coordStrList = row.get('polygon','').split(" ")
             coordList = [[float(coor) for coor in coordi.split(',')] for coordi in coordStrList]
 
-            if i % 1000000 == 0:
-                # 初始化类
-                newMap = CreateMapFeature(self.outputPath)
+            if self.count % 10000 == 0:
 
                 # 创建shape文件
-                dataSource = newMap.newFile('pylgon' + str(i) + '.shp')
+                dataSource = self.newMap.newFile(r'\pylgon_' + str(self.count) + '.shp')
 
                 # 创建 图层Layer 对象
-                newLayer = newMap.createLayer(dataSource, fieldList)
+                self.newLayer = self.newMap.createLayer(dataSource, fieldList)
 
-                print(i)
+                print(self.count)
 
-            newMap.createPolygon(newLayer, [coordList], row.get('polygon',''))
-            # 创建 shape对象
+            # 创建 polygon 多边形
+            self.newMap.createPolygon(self.newLayer, [coordList], row.get('valueList',''))
 
-
-
+            # 写入的 feture 数量 加1
+            self.count += 1
 
 
 
     def kmlBigFileRead(self):
-        # 初始化生成shape文件的类
-        newMap = CreateMapFeature(self.outputPath)
+        # # 初始化生成shape文件的类
+        # self.newMap = CreateMapFeature(self.outputPath)
 
         # 获取kml文件的 声明前缀
         self.kmlPrefix = self.getKmlPrefix()
@@ -246,7 +251,7 @@ class KmlAnalysis():
 
 
 if __name__=='__main__':
-    kml = KmlAnalysis("wms.kml")
+    kml = KmlAnalysis("temp.kml")
     kml.kmlBigFileRead()
 
 
